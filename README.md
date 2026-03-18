@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-[interview-cracker.vercel.app]([https://interview-cracker.vercel.app](https://interview-cracker-iota.vercel.app/))
+[https://interview-cracker-iota.vercel.app/)
 
 ---
 

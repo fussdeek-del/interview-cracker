@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-[https://interview-cracker-iota.vercel.app/)
+[https://interview-cracker-iota.vercel.app/](https://interview-cracker-iota.vercel.app/)
 
 ---
 
@@ -118,4 +118,9 @@ VITE_ANTHROPIC_KEY = your_api_key_here
 ```
 interview-cracker/
 ├── src/
-│   ├── App.jsx          # Main application —
+│   ├── App.jsx          # Main application
+```
+
+---
+
+**Thank you for visiting this repository. If you find this project helpful, feel free to star the repo or reach out for collaborations.**

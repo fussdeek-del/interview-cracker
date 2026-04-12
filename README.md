@@ -124,3 +124,5 @@ interview-cracker/
 ---
 
 **Thank you for visiting this repository. If you find this project helpful, feel free to star the repo or reach out for collaborations.**
+
+give a follow if u find this helpfull
